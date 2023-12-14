@@ -1,0 +1,5 @@
+------------------README-----------------------
+1. Start the verdi: make verdi 
+2. Clean the env: make clean 
+3. Run the simulation: make sim 
+
